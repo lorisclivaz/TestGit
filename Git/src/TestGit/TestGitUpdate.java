@@ -16,12 +16,14 @@ package TestGit;
 public class TestGitUpdate extends TestGit 
 {
 
-	/**
-	 * @param parameter
-	 */
-	public TestGitUpdate(String parameter) {
+	
+	public TestGitUpdate(String parameter) 
+	{
 		super(parameter);
-		// TODO Auto-generated constructor stub
+
 	}
 
+	
+
+	
 }
