@@ -21,7 +21,7 @@ public class MainClass {
 	public static void main(String[] args)
 	{
 
-		TestGit myFirstTestGit = new TestGitUpdate("My Parameter");
+		TestGit myFirstTestGit = new TestGitUpdate("loris");
 		System.out.println(myFirstTestGit.returnTheString());
 	}
 
